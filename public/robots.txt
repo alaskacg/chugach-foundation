@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alaskacg.github.io/chugach-foundation/sitemap.xml
